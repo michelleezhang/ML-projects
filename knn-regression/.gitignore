@@ -1,0 +1,6 @@
+*.swp
+.DS_Store
+__pycache__/
+
+tests/test_result.json
+tests/report.json
